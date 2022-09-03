@@ -1,0 +1,8 @@
+﻿빌드 시작...
+1>------ 빌드 시작: 프로젝트: Cho2, 구성: Debug x64 ------
+1>cho2.c
+1>C:\Cho2\Cho2\cho2.c(12,22): warning C4474: 'scanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+1>C:\Cho2\Cho2\cho2.c(12,22): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+1>C:\Cho2\Cho2\cho2.c(12,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>"Cho2.vcxproj" 프로젝트를 빌드했습니다. - 실패
+========== 빌드: 성공 0, 실패 1, 최신 0, 생략 0 ==========
